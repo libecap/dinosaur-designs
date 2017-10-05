@@ -1,0 +1,38 @@
+html {
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5rem;
+}
+
+img {
+  width: 100%;
+}
+
+ol {
+  list-style: none;
+}
+
+a {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+a:link{
+  color: #793284;
+}
+
+a:hover{
+  color: #b42885;
+}
+
+header,
+h2 {
+  color: #5d8432;
+  text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
