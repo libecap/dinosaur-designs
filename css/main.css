@@ -38,4 +38,10 @@ h2 {
 figcaption {
   text-align: center;
   font-style: italic;
+  font-size: .7rem;
+}
+
+.hadrosaur {
+  font-size: 1rem;
+
 }
